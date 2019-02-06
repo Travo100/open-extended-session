@@ -1,4 +1,11 @@
-# Create React Express App
+# open-extended-session
+
+GitHub: https://github.com/Travo100/open-extended-session
+
+Deployed Site: https://open-extended-session.herokuapp.com
+
+Video: https://s3-us-west-2.amazonaws.com/extended-sessions-cbc/october-2018-ft/22-computer-science/lesson.mp4
+
 
 ## About This Boilerplate
 
