@@ -1,7 +1,7 @@
 {
   "name": "mern",
   "version": "1.0.0",
-  "description": "Mern Demo",
+  "description": "An open extended session for coding boot camp at UCSD",
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "bcrypt-nodejs": "^0.0.3",
+    "dotenv": "^6.2.0",
     "express": "^4.16.4",
     "express-jwt": "^5.3.1",
     "if-env": "^1.0.4",
